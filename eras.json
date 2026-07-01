@@ -1,0 +1,7 @@
+[
+  { "name": "令和", "start": 2019, "end": null },
+  { "name": "平成", "start": 1989, "end": 2019 },
+  { "name": "昭和", "start": 1926, "end": 1989 },
+  { "name": "大正", "start": 1912, "end": 1926 },
+  { "name": "明治", "start": 1868, "end": 1912 }
+]
